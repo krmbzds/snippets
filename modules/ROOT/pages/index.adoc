@@ -1,4 +1,4 @@
 = {page-component-title}
-== A page
+== A snippet page
 
-And some content.
+And some snippet content.

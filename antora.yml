@@ -1,5 +1,5 @@
 name: snippets 
-title: Antora Quickstart  
+title: Snippets
 version: ~
 start_page: ROOT:index.adoc 
 nav: 
