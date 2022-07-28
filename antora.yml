@@ -1,6 +1,6 @@
 name: snippets 
 title: Snippets
 version: ~
-start_page: ROOT:index.adoc 
+start_page: index.adoc
 nav: 
 - modules/ROOT/nav.adoc
