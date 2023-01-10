@@ -1,4 +1,8 @@
 = {page-component-title}
-== A snippet page
+Kerem Bozdas
+:idprefix:
+:idseparator: -
+:page-pagination:
+:description: {page-component-title} Index
 
 And some snippet content.
